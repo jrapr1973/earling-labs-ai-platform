@@ -66,3 +66,14 @@ Current signal categories include:
 ## Status
 
 Active development and architecture exploration.
+
+## Tech Stack Direction
+
+- Python
+- FastAPI
+- TypeScript
+- Real-time APIs
+- AI/LLM integrations
+- Workflow orchestration
+- Signal processing systems
+- Scalable backend infrastructure
